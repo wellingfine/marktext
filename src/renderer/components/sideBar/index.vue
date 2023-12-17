@@ -152,6 +152,7 @@ export default {
     background: var(--sideBarBgColor);
     border-right: 1px solid var(--itemBgColor);
     & .left-column {
+      background: var(--sideBarLeftColumnColor);
       & svg {
         fill: var(--iconColor);
       }
